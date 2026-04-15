@@ -6,6 +6,21 @@ This repository is a comprehensive collection of projects and experiments focuse
 
 The repository is organized into multiple folders, each representing a different topic or project in the Generative AI domain. These projects demonstrate the use of popular frameworks and tools like LangChain, Ollama, Crew AI, NVIDIA NIM, and others.
 
+## Skills Learned
+
+Through working on these projects, inspired by Krish Naik's Udemy course, I have developed expertise in the following key areas:
+
+- **Building Conversational AI Chatbots**: Creating end-to-end chatbots using LangChain and various LLM providers.
+- **Retrieval-Augmented Generation (RAG)**: Implementing RAG systems for document Q&A, conversational retrieval, and hybrid search.
+- **Fine-Tuning Large Language Models**: Techniques for fine-tuning models like Gemma for specific tasks.
+- **Vector Databases and Embeddings**: Working with embeddings, vector stores, and similarity search using tools like AstraDB and other vector databases.
+- **LangChain Framework**: Proficient in using LangChain for chaining LLMs, data ingestion, transformation, and application development.
+- **Multi-Agent Systems**: Developing collaborative AI agents using Crew AI for complex workflows.
+- **Text Processing and Summarization**: Advanced text splitting, transformation, and summarization techniques.
+- **API Integrations**: Integrating with APIs from OpenAI, Ollama, NVIDIA NIM, and other services.
+- **Graph Databases**: Using Neo4j and other graph databases for AI applications.
+- **Hybrid Search and Advanced RAG**: Combining different search techniques for improved retrieval.
+
 ## Project Structure
 
 - **1-Introduction To GenAI/**: Introduction to Generative AI concepts.
