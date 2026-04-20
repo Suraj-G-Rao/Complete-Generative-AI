@@ -153,7 +153,7 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to contribute by:
 - 🐛 Reporting issues
